@@ -1,2 +1,2 @@
 # MohamedX
-Tools for hacker
+Most of tools work just in linux
